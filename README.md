@@ -8,8 +8,8 @@ pkg instal php
 pkg instal curl
 pkg instal git
 git clone https://github.com/yusmanlaia/yusman
-cd denis
-php deniss.php
+cd yusman
+php yusmann.php
 masukin nomor hp
 masukin kode verifikasi (OTP)
 pilih kode voucher
